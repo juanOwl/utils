@@ -1,0 +1,9 @@
+GITHUB TUTORIAL DEFINITIVO
+
+git init
+git add .
+git commit -m "nome commit"
+git remote add origin linkdorepo
+git push -u origin master
+
+Talvez tenha que logar usando o unique key, pesquise onde achar.
