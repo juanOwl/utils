@@ -7,3 +7,9 @@ git remote add origin linkdorepo
 git push -u origin master
 
 Talvez tenha que logar usando o unique key, pesquise onde achar.
+
+UPDATAR NO GITHUB
+
+git add -A
+git commit -m "nome do commit"
+git push -u origin master
